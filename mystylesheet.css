@@ -1,0 +1,70 @@
+body{
+	width: 600px;
+	margin: auto;
+	background-color:rgb(246, 120, 123);
+	font-family: cursive;
+}
+.me{
+	float: right;
+	margin-left: 10px;
+}
+h1{
+	
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 0 1px 2px white;
+}
+ ol li{
+ 	display: inline;
+ 	padding-left: 0px;
+    font-family: cursive;
+	padding-right: 30px;
+	font-size:20px;
+
+}
+img{
+	border-radius: 50%;
+}
+
+a{
+	 
+	 color: grey; text-decoration: none; font: sans-serif;
+}
+body a:hover{
+color: black;
+
+}
+h1{
+	color: black;text-decoration: unset;font: italic;
+}
+blockquote{
+	border: 10px;
+	color: black;
+	text-align: center;
+}
+.two{
+	margin-left: 10px;
+	width: 300px;
+	float:right;
+	font-family: cursive;
+	line-height: 20px;
+
+}
+.radio{
+	margin-right: 10px;
+	width: 300px;
+	float: left;
+	font-family: cursive;
+}
+.radio1{
+	position: relative;
+	top: 50px;
+}
+h3{
+	box-sizing: 100px;
+    text-align: center;
+	position: relative;
+	top: 100px;
+	
+	
+}
